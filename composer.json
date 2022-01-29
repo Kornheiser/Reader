@@ -1,5 +1,5 @@
 {
-  "name": "kornheiser/tokenizer",
+  "name": "kornheiser/reader",
   "description": "Tokenizing, analysing tools",
   "type": "library",
   "license": "MIT",

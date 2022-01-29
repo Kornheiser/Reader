@@ -1,0 +1,24 @@
+{
+  "name": "kornheiser/tokenizer",
+  "description": "Tokenizing, analysing tools",
+  "type": "library",
+  "license": "MIT",
+    
+  "authors": [{
+    "name": "Faruch N.",
+    "email": "rollyllni@gmail.com",
+    "homepage": "https://vk.com/rollylni",
+    "role": "Developer"
+  }],
+
+  "require": {
+    "php": "^8.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Kornheiser\\": "./",
+      "symfony/polyfill-mbstring": "*"
+    }
+  }
+}
